@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dravemelon
+- 👋 Hi, I’m Gorkem
 - 👀 I’m interested in software and game development
 - 🌱 I’m currently a computer science student at MMU
 - 📫 How to reach me : harolxdw@gmail.com, my email!
